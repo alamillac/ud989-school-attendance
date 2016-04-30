@@ -1,0 +1,7 @@
+Current Goal:
+* None
+
+Previous Goal:
+* I have to separate the view from the model:
+    * I am going to translate all the content from the html to a attendance view and a model.
+    * The model will be created with a random data (missed days).
